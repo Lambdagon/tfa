@@ -1,0 +1,104 @@
+# source and debug files
+*.pdb
+*.dbg
+*_srv.so
+
+# misc 
+bin/.gitignore
+
+# mapsrc files
+mapsrc/*.vmx
+mapsrc/*.bsp
+mapsrc/*.log
+mapsrc/*.lin
+mapsrc/*.prt
+
+# folders
+addons/
+cache/
+custom/*
+download/
+downloadlists/
+screenshots/
+sound/temp/
+maps/graphs/
+materials/temp/*
+//materials/vgui/logos/*
+materialsrc/
+modelsrc/
+maps/soundcache/
+mapsrc/
+
+# allow files in ignored folders
+!custom/readme.txt
+# pre-installed sprays
+!materials/vgui/logos/can.*
+!materials/vgui/logos/pf2.*
+
+# class config files
+//cfg/scout.cfg
+//cfg/soldier.cfg
+//cfg/pyro.cfg
+//cfg/demoman.cfg
+//cfg/heavyweapons.cfg
+//cfg/engineer.cfg
+//cfg/medic.cfg
+//cfg/sniper.cfg
+//cfg/spy.cfg
+//cfg/civilian.cfg
+//cfg/undefined.cfg
+
+# server config files
+cfg/motd.txt
+cfg/motd_defualt.txt
+cfg/motd_text_defualt.txt
+cfg/sourcemod
+cfg/server.cfg
+cfg/listenserver.cfg
+cfg/mapcycle.txt
+cfg/maplist.txt
+cfg/server_blacklist.txt
+cfg/banned_ip.cfg
+cfg/banned_user.cfg
+ServerConfig.vdf
+
+# user generated files
+cfg/autoexec.cfg
+cfg/config.cfg
+cfg/userconfig.cfg
+cfg/settings.scr
+cfg/settings_mod.scr
+cfg/user.scr
+cfg/user_mod.scr
+cfg/pf.scr
+cfg/pet.txt
+cfg/commedit.txt
+cfg/vmt.txt
+media/viewed.res
+scripts/tf_inventory.txt
+resource/mp3player_db.txt
+sound/sound.cache
+console.log
+condump*.txt
+
+GameState.txt
+stats.txt
+tf2_playerstats.dmx
+modelsounds.cache
+demoheader.tmp
+voice_ban.dt
+glshaders.cfg
+videoconfig_linux.cfg
+gamestate.txt
+
+*.dem
+*.backup
+*.bat
+*.lnk
+*.bmp
+
+spec_debug_*.txt
+resource/clientscheme_live.res
+*.ztmp
+pf_inventory.txt
+*.vcd
