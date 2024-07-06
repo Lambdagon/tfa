@@ -32,6 +32,7 @@
 		"file"		"scripts/soundscapes_nightfall.txt"
 		"file"		"scripts/soundscapes_lakeside.txt"
 		"file"		"scripts/soundscapes_barnblitz.txt"
+		"file"		"scripts/soundscapes_lair.txt"
 		"file"		"scripts/soundscapes_harbor.txt"
 		"file"		"scripts/soundscapes_deathpit.txt"
 		"file"		"scripts/soundscapes_mannworks.txt"
@@ -41,5 +42,10 @@
 		"file"		"scripts/soundscapes_rottenburg.txt"
 		"file"		"scripts/soundscapes_moonbase.txt"
 		"file"		"scripts/soundscapes_powerhouse.txt"
+		"file"		"scripts/soundscapes_hellfire.txt"
+		
+		// Custom TF2C soundscapes
+		"file"		"scripts/soundscapes_hydro_night.txt"
 		"file"		"scripts/soundscapes_wiseau.txt"
+		"file"		"scripts/soundscapes_coldfort.txt"
 }	

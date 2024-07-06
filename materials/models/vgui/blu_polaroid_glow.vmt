@@ -1,0 +1,6 @@
+UnLitGeneric
+{
+	"$basetexture" "models/vgui/blue_glow"
+	"$translucent" "1"
+	"$additive" "1"
+}

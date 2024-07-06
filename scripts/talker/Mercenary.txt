@@ -1,0 +1,38 @@
+//--------------------------------------------------------------------------------------------------------------
+// Mercenary Response Rule File
+//--------------------------------------------------------------------------------------------------------------
+
+
+//--------------------------------------------------------------------------------------------------------------
+// Auto Speech Pain
+//--------------------------------------------------------------------------------------------------------------
+Response PlayerAttackerPainMercenary
+{
+	scene "scenes/Player/Mercenary/low/PainSevere01.vcd"
+	scene "scenes/Player/Mercenary/low/PainSevere02.vcd"
+	scene "scenes/Player/Mercenary/low/PainSevere03.vcd"
+	scene "scenes/Player/Mercenary/low/PainSevere04.vcd"
+	scene "scenes/Player/Mercenary/low/PainSevere05.vcd"
+	scene "scenes/Player/Mercenary/low/PainSevere06.vcd"
+}
+Rule PlayerAttackerPainMercenary
+{
+	criteria ConceptAttackerPain IsMercenary
+	Response PlayerAttackerPainMercenary
+}
+
+Response PlayerPainMercenary
+{
+	scene "scenes/Player/Mercenary/low/PainSharp01.vcd"
+	scene "scenes/Player/Mercenary/low/PainSharp02.vcd"
+	scene "scenes/Player/Mercenary/low/PainSharp03.vcd"
+	scene "scenes/Player/Mercenary/low/PainSharp04.vcd"
+	scene "scenes/Player/Mercenary/low/PainSharp05.vcd"
+	scene "scenes/Player/Mercenary/low/PainSharp06.vcd"
+	scene "scenes/Player/Mercenary/low/PainSharp07.vcd"
+}
+Rule PlayerPainMercenary
+{
+	criteria ConceptPain IsMercenary
+	Response PlayerPainMercenary
+}

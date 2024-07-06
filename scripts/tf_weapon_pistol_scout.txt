@@ -15,32 +15,38 @@ WeaponData
 	"TimeFireDelay"		"0.15"
 	"TimeIdle"		"5.0"
 	"TimeIdleEmpty"		"0.25"
-	"TimeReload"		"0.5"
-	"ProjectileType"	"projectile_bullet"
-	"BrassModel"		"models/weapons/shells/shell_pistol.mdl"
+	"TimeReload"		"1.2"
 	"UseRapidFireCrits"	"1"
-	"TracerEffect"		"bullet_pistol_tracer01"
-	"MaxAmmo"		"36"
+	"ProjectileType"	"projectile_bullet"
 
 	// Ammo & Clip.
 	"primary_ammo"		"TF_AMMO_SECONDARY"
 	"secondary_ammo"	"None"
-	clip_size		12
-	default_clip		12
+	"clip_size"		"12"
+	"default_clip"		"12"
+	"MaxAmmo"		"36"
 
 	// Buckets.
 	"bucket"		"1"
 	"bucket_position"	"0"
 
-	// Animation.
+	// Models.
 	"viewmodel"		"models/weapons/v_models/v_pistol_scout.mdl"
 	"playermodel"		"models/weapons/w_models/w_pistol.mdl"
-	"anim_prefix"		"ac"
 
 	// Muzzleflash
 	"MuzzleFlashModel"	"models/effects/muzzleflash/minigunmuzzle.mdl"
 	"MuzzleFlashParticleEffect" "muzzle_pistol"
 	"MuzzleflashModelScale"	".3"
+	
+	// Brass shell.
+	"BrassModel"		"models/weapons/shells/shell_pistol.mdl"
+	
+	// Magazine.
+	"MagazineModel"		"models/weapons/mags/pistol.mdl"
+	
+	// Tracer.
+	"TracerEffect"		"bullet_pistol_tracer01"
 
 	// Sounds.
 	// Max of 16 per category (ie. max 16 "single_shot" sounds).

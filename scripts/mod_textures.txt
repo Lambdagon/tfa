@@ -348,6 +348,15 @@
 				"width"		"96"
 				"height"	"32"
 		}
+		"pistol_merc"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"0"
+				"y"		"436"
+				"width"		"66"
+				"height"	"34"
+		}
 		"nailgun"
 		{
 				"dfile"	"HUD/d_images_tf2c"
@@ -356,6 +365,141 @@
 				"y"		"0"
 				"width"		"96"
 				"height"	"32"
+		}
+		"sixshooter"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"0"
+				"y"		"392"
+				"width"		"80"
+				"height"	"40"
+		}
+		"leverrifle"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"0"
+				"y"		"357"
+				"width"		"129"
+				"height"	"31"
+		}
+		"leverrifle_headshot"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"0"
+				"y"		"480"
+				"width"		"110"
+				"height"	"27"
+		}
+		"tf_projectile_plasma"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"133"
+				"y"		"259"
+				"width"		"124"
+				"height"	"36"
+		}
+		"tf_projectile_plasma_bomb"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"133"
+				"y"		"113"
+				"width"		"82"
+				"height"	"41"
+		}
+		"chaingun"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"133"
+				"y"		"313"
+				"width"		"133"
+				"height"	"36"
+		}
+		"supernailgun"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"133"
+				"y"		"390"
+				"width"		"113"
+				"height"	"45"
+		}
+		"assaultrifle"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"133"
+				"y"		"434"
+				"width"		"136"
+				"height"	"40"
+		}
+		"tommygun"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"133"
+				"y"		"354"
+				"width"		"128"
+				"height"	"36"
+		}
+		"umbrella"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"132"
+				"y"		"0"
+				"width"		"90"
+				"height"	"32"
+		}
+		"ubersaw"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"131"
+				"y"		"39"
+				"width"		"83"
+				"height"	"25"
+		}
+		"hammerfists"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"133"
+				"y"		"70"
+				"width"		"67"
+				"height"	"39"
+		}
+		"flag"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"267"
+				"y"		"254"
+				"width"		"71"
+				"height"	"47"
+		}
+		"huntingshotgun"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"267"
+				"y"		"389"
+				"width"		"128"
+				"height"	"39"
+		}
+		"claws"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"268"
+				"y"		"437"
+				"width"		"78"
+				"height"	"34"
 		}
 		"sniperrifle"
 		{
@@ -374,6 +518,33 @@
 				"y"		"128"
 				"width"		"96"
 				"height"	"32"
+		}
+		"stengun"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"0"
+				"y"		"192"
+				"width"		"96"
+				"height"	"32"
+		}
+		"chainsaw"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"133"
+				"y"		"153"
+				"width"		"118"
+				"height"	"60"
+		}
+		"chainsaw_backstab"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"133"
+				"y"		"475"
+				"width"		"92"
+				"height"	"35"
 		}
 		"smg_scout"
 		{
@@ -408,17 +579,35 @@
 				"dnegfile"	"HUD/dneg_images_tf2c"
 				"x"		"0"
 				"y"		"32"
-				"width"		"96"
+				"width"		"84"
 				"height"	"32"
 		}
-		"doublebarrel"
+		"supershotgun"
 		{
 				"dfile"	"HUD/d_images_tf2c"
 				"dnegfile"	"HUD/dneg_images_tf2c"
 				"x"		"0"
 				"y"		"64"
-				"width"		"125"
+				"width"		"135"
 				"height"	"32"
+		}
+				"telefrag"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"133"
+				"y"		"214"
+				"width"		"81"
+				"height"	"39"
+		}
+				"chinalake"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"271"
+				"y"		"353"
+				"width"		"118"
+				"height"	"36"
 		}
 		"hunterrifle"
 		{
@@ -445,6 +634,15 @@
 				"x"		"0"
 				"y"		"224"
 				"width"		"96"
+				"height"	"32"
+		}
+		"rpg"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"0"
+				"y"		"225"
+				"width"		"110"
 				"height"	"32"
 		}
 		"shotgun_primary"
@@ -483,6 +681,15 @@
 				"width"		"96"
 				"height"	"32"
 		}
+		"shotgun_merc"
+		{
+				"dfile"	"HUD/d_images"
+				"dnegfile"	"HUD/dneg_images"
+				"x"		"0"
+				"y"		"256"
+				"width"		"96"
+				"height"	"32"
+		}
 		"tf_projectile_pipe"
 		{
 				"dfile"	"HUD/d_images"
@@ -491,6 +698,24 @@
 				"y"		"288"
 				"width"		"96"
 				"height"	"32"
+		}
+		"mirv_projectile"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"0"
+				"y"		"254"
+				"width"		"52"
+				"height"	"45"
+		}
+		"mirv_bomb"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"0"
+				"y"		"301"
+				"width"		"52"
+				"height"	"45"
 		}
 		"bottle"
 		{
@@ -582,6 +807,15 @@
 				"width"		"96"
 				"height"	"32"
 		}
+		"tranq"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"0"
+				"y"		"162"
+				"width"		"113"
+				"height"	"32"
+		}
 		"flaregun"
 		{
 				"dfile"	"HUD/d_images"
@@ -654,60 +888,7 @@
 				"width"		"48"
 				"height"	"32"
 		}
-		"taunt_pyro"
-		{
-				"dfile"	"HUD/d_images"
-				"dnegfile"	"HUD/dneg_images"
-				"x"		"96"
-				"y"		"480"
-				"width"		"96"
-				"height"	"32"
-		}
-		"bluedefend"
-		{
-				"dfile"	"HUD/d_images"
-				"dnegfile"	"HUD/dneg_images"
-				"x"		"194"
-				"y"		"0"
-				"width"		"32"
-				"height"	"32"
-		}
-		"bluecapture"
-		{
-				"dfile"	"HUD/d_images"
-				"dnegfile"	"HUD/dneg_images"
-				"x"		"194"
-				"y"		"32"
-				"width"		"32"
-				"height"	"32"
-		}
-		"reddefend"
-		{
-				"dfile"	"HUD/d_images"
-				"dnegfile"	"HUD/dneg_images"
-				"x"		"226"
-				"y"		"0"
-				"width"		"32"
-				"height"	"32"
-		}
-		"redcapture"
-		{
-				"dfile"	"HUD/d_images"
-				"dnegfile"	"HUD/dneg_images"
-				"x"		"226"
-				"y"		"32"
-				"width"		"32"
-				"height"	"32"
-		}
-		"obj_attachment_sapper"
-		{
-				"dfile"	"HUD/d_images"
-				"dnegfile"	"HUD/dneg_images"
-				"x"		"0"
-				"y"		"64"
-				"width"		"96"
-				"height"	"32"
-		}
+
 		"deflect_promode"
 		{
 				"dfile"	"HUD/d_images"
@@ -717,6 +898,7 @@
 				"width"		"64"
 				"height"	"32"
 		}
+		
 		"deflect_sticky"
 		{
 				"dfile"	"HUD/d_images"
@@ -726,6 +908,7 @@
 				"width"		"64"
 				"height"	"32"
 		}
+		
 		"deflect_rocket"
 		{
 				"dfile"	"HUD/d_images"
@@ -735,6 +918,7 @@
 				"width"		"64"
 				"height"	"32"
 		}
+		
 		"deflect_flare"
 		{
 				"dfile"	"HUD/d_images"
@@ -744,24 +928,7 @@
 				"width"		"64"
 				"height"	"32"
 		}
-		"taunt_heavy"
-		{
-				"dfile"	"HUD/d_images"
-				"dnegfile"	"HUD/dneg_images"
-				"x"		"191"
-				"y"		"479"
-				"width"		"64"
-				"height"	"32"
-		}
-		"taunt_scout"
-		{
-				"dfile"	"HUD/d_images"
-				"dnegfile"	"HUD/dneg_images"
-				"x"		"192"
-				"y"		"224"
-				"width"		"64"
-				"height"	"64"
-		}
+		
 		"crit"
 		{
 				"dfile"	"HUD/d_images"
@@ -771,6 +938,65 @@
 				"width"		"64"
 				"height"	"34"
 		}
+		
+		"taunt_pyro"
+		{
+				"dfile"	"HUD/d_images"
+				"dnegfile"	"HUD/dneg_images"
+				"x"		"96"
+				"y"		"480"
+				"width"		"96"
+				"height"	"32"
+		}
+		
+		"taunt_heavy"
+		{
+				"dfile"	"HUD/d_images"
+				"dnegfile"	"HUD/dneg_images"
+				"x"		"191"
+				"y"		"479"
+				"width"		"64"
+				"height"	"32"
+		}
+		
+		"taunt_scout"
+		{
+				"dfile"	"HUD/d_images"
+				"dnegfile"	"HUD/dneg_images"
+				"x"		"192"
+				"y"		"224"
+				"width"		"64"
+				"height"	"64"
+		}
+		
+		"huntsman"
+		{
+				"dfile"	"HUD/d_images"
+				"dnegfile"	"HUD/dneg_images"
+				"x"		"263"
+				"y"		"98"
+				"width"		"96" 
+				"height"	"32"
+		}
+		"huntsman_burning"
+		{
+				"dfile"	"HUD/d_images"
+				"dnegfile"	"HUD/dneg_images"
+				"x"		"263"
+				"y"		"190"
+				"width"		"68"
+				"height"	"33"
+		}
+		"huntsman_flyingburn"
+		{
+				"dfile"	"HUD/d_images"
+				"dnegfile"	"HUD/dneg_images"
+				"x"		"263"
+				"y"		"223"
+				"width"		"103"
+				"height"	"32"
+		}
+		
 		"taunt_spy"
 		{
 				"dfile"	"HUD/d_images"
@@ -780,12 +1006,112 @@
 				"width"		"92"
 				"height"	"32"
 		}
+		
+		"huntsman_headshot"
+		{
+				"dfile"	"HUD/d_images"
+				"dnegfile"	"HUD/dneg_images"
+				"x"		"192"
+				"y"		"289"
+				"width"		"64"
+				"height"	"32"
+		}
+		
+		"taunt_sniper"
+		{
+				"dfile"	"HUD/d_images"
+				"dnegfile"	"HUD/dneg_images"
+				"x"		"263"
+				"y"		"161"
+				"width"		"94"
+				"height"	"27"
+		}
+		
+		"saw_kill"
+		{
+				"dfile"	"HUD/d_images"
+				"dnegfile"	"HUD/dneg_images"
+				"x"		"192"
+				"y"		"359"
+				"width"		"64"
+				"height"	"32"
+		}
+		"deflect_arrow"
+		{
+				"dfile"	"HUD/d_images"
+				"dnegfile"	"HUD/dneg_images"
+				"x"		"360"
+				"y"		"0"
+				"width"		"64"
+				"height"	"30"
+		}
+		
+		"taunt_medic"
+		{
+				"dfile"	"HUD/d_images"
+				"dnegfile"	"HUD/dneg_images"
+				"x"		"368"
+				"y"		"197"
+				"width"		"128"
+				"height"	"32"
+		}
+		
 		"building_carried_destroyed"
 		{
 				"dfile"	"HUD/d_images_v2"
 				"dnegfile"	"HUD/dneg_images_v2"
 				"x"		"0"
 				"y"		"768"
+				"width"		"96"
+				"height"	"32"
+		}
+		
+		"bluedefend"
+		{
+				"dfile"	"HUD/d_images"
+				"dnegfile"	"HUD/dneg_images"
+				"x"		"194"
+				"y"		"0"
+				"width"		"32"
+				"height"	"32"
+		}
+		
+		"bluecapture"
+		{
+				"dfile"	"HUD/d_images"
+				"dnegfile"	"HUD/dneg_images"
+				"x"		"194"
+				"y"		"32"
+				"width"		"32"
+				"height"	"32"
+		}
+		
+		"reddefend"
+		{
+				"dfile"	"HUD/d_images"
+				"dnegfile"	"HUD/dneg_images"
+				"x"		"226"
+				"y"		"0"
+				"width"		"32"
+				"height"	"32"
+		}
+		
+		"redcapture"
+		{
+				"dfile"	"HUD/d_images"
+				"dnegfile"	"HUD/dneg_images"
+				"x"		"226"
+				"y"		"32"
+				"width"		"32"
+				"height"	"32"
+		}
+		
+		"obj_attachment_sapper"
+		{
+				"dfile"	"HUD/d_images"
+				"dnegfile"	"HUD/dneg_images"
+				"x"		"0"
+				"y"		"64"
 				"width"		"96"
 				"height"	"32"
 		}
@@ -960,6 +1286,24 @@
 		"obj_status_background_tall_red"	
 		{
 			"file"		"HUD/eng_status_area_sentry_red"
+			"x"		"0"
+			"y"		"0"
+			"width"		"243"
+			"height"	"110"
+		}
+		
+		"obj_status_background_tall_green"	
+		{
+			"file"		"HUD/eng_status_area_sentry_green"
+			"x"		"0"
+			"y"		"0"
+			"width"		"243"
+			"height"	"110"
+		}
+		
+		"obj_status_background_tall_yellow"	
+		{
+			"file"		"HUD/eng_status_area_sentry_yellow"
 			"x"		"0"
 			"y"		"0"
 			"width"		"243"
@@ -1614,6 +1958,14 @@
 			"width"	"64"
 			"height"	"64"
 		}
+		"hud_taunt_menu_icon"
+		{
+			"file"		"hud/ico_reel"
+			"x"		"0"
+			"y"		"0"
+			"width"		"256"
+			"height"	"256"
+		}
 		"hud_spy_disguise_menu_icon"
 		{
 			"file"		"hud/ico_spy"
@@ -1621,6 +1973,42 @@
 			"y"		"0"
 			"width"		"256"
 			"height"	"256"
+		}
+		"kill_bg_cloak"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"443"
+				"y"		"2"
+				"width"		"54"
+				"height"	"33"
+		}
+		"kill_bg_critdamage"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"439"
+				"y"		"37"
+				"width"		"64"
+				"height"	"30"
+		}
+		"kill_bg_shield"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"440"
+				"y"		"74"
+				"width"		"57"
+				"height"	"32"
+		}
+		"kill_bg_speedboost"
+		{
+				"dfile"	"HUD/d_images_tf2c"
+				"dnegfile"	"HUD/dneg_images_tf2c"
+				"x"		"445"
+				"y"		"116"
+				"width"		"54"
+				"height"	"33"
 		}
 	}	
 }

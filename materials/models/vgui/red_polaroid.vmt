@@ -1,0 +1,6 @@
+UnLitGeneric
+{
+	"$basetexture" "models/vgui/red_polariod"
+	"$alphatest" "1"
+	"$allowalphatocoverage" "1"
+}

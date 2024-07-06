@@ -7,18 +7,18 @@
 {
 	"-"			""  // don't decal this surface
 
-	"C"			"Impact.Concrete"
-	"M"			"Impact.Metal"
-	"W"			"Impact.Wood"
-	"Y"			"Impact.Glass"
-	"F"			"Impact.Flesh"
-	"B"			"Impact.BloodyFlesh"
-	"N"			"Impact.Sand"
-	"V"			"Impact.Metal"
-	"D"			"Impact.Dirt"
+	"C"			"Impact.Concrete"		// CHAR_TEX_CONCRETE
+	"M"			"Impact.Metal"			// CHAR_TEX_METAL
+	"W"			"Impact.Wood"			// CHAR_TEX_WOOD
+	"Y"			"Impact.Glass"			// CHAR_TEX_GLASS
+	"F"			"Impact.Flesh"			// CHAR_TEX_FLESH
+	"B"			"Impact.BloodyFlesh"	// CHAR_TEX_BLOODYFLESH
+	"N"			"Impact.Sand"			// CHAR_TEX_SAND
+	"V"			"Impact.Metal"			// CHAR_TEX_VENT
+	"D"			"Impact.Dirt"			// CHAR_TEX_DIRT
+	"["			"Impact.Dirt"			// TF_CHAR_TEX_SNOW
 
 // These might be translated in the future
-	//CHAR_TEX_DIRT		'D'
 	//CHAR_TEX_GRATE	'G'
 	//CHAR_TEX_TILE		'T'
 	//CHAR_TEX_SLOSH	'S'

@@ -1,0 +1,46 @@
+
+"soundscape_boxing_ring" 
+{
+	"playlooping"
+	{
+		"volume"		"0.15"
+		"pitch"			"100"
+		"wave"			"sounds/ambient/amb_loop.wav"
+	}
+	"playrandom"
+	{
+		"time"			"4, 7"
+		"volume"		"0.1"
+		"pitch"			"100"
+		"soundlevel" 	"SNDLVL_65dB"
+		"position"  	"random"
+		"rndwave"
+		{
+			"wave"		"sounds/ambient/amb_boxing_01.wav"
+			"wave"		"sounds/ambient/amb_boxing_02.wav"
+			"wave"		"sounds/ambient/amb_boxing_03.wav"		
+			"wave"		"sounds/ambient/amb_boxing_04.wav"
+			"wave"		"sounds/ambient/amb_boxing_05.wav"
+			"wave"		"sounds/ambient/amb_boxing_06.wav"
+			"wave"		"sounds/ambient/amb_boxing_07.wav"			
+		}
+	}
+	"playrandom"
+	{
+		"time"			"3, 7"
+		"volume"		"0.1"
+		"pitch"			"100"
+		"soundlevel" 	"SNDLVL_65dB"
+		"position"  	"random"
+		"rndwave"
+		{
+			"wave"		"sounds/ambient/amb_weights_01.wav"
+			"wave"		"sounds/ambient/amb_weights_02.wav"
+			"wave"		"sounds/ambient/amb_weights_03.wav"		
+			"wave"		"sounds/ambient/amb_weights_04.wav"
+			"wave"		"sounds/ambient/amb_weights_05.wav"
+			"wave"		"sounds/ambient/amb_weights_06.wav"
+			"wave"		"sounds/ambient/amb_weights_07.wav"			
+		}
+	}
+}

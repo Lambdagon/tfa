@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	"$basetexture" "models/vgui/penny"
+	"$bumpmap" "models/vgui/penny_n"
+
+	"$surfaceprop" "metal"
+
+	"$lightwarptexture"		"models/player/pyro/pyro_lightwarp"
+	"$phong"		"1"
+	"$phongexponent"		"15.000000"
+	"$phongboost"		"8"
+	"$phongfresnelranges"		"[.25 .5 1]"
+	"$rimlight"		"1"
+	"$rimlightexponent"		"4.000000"
+	"$rimlightboost"		"2.000000"
+}

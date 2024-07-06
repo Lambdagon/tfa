@@ -18,9 +18,9 @@ PlayerClass
 	"grenade2"		""
 
 	// Weapons.
-	"weapon1"		"TF_WEAPON_CROWBAR"
-	"weapon2"		"TF_WEAPON_PISTOL_SCOUT"
-	"weapon3"		""
+	"weapon1"		""
+	"weapon2"		"TF_WEAPON_PISTOL"
+	"weapon3"		"TF_WEAPON_CROWBAR"
 
 	//Thirdperson
 	"cameraoffset_forward"	"85"
@@ -40,5 +40,5 @@ PlayerClass
 	"sound_death"				"Mercenary.Death"
 	"sound_crit_death"			"Mercenary.CritDeath"
 	"sound_melee_death"			"Mercenary.MeleeDeath"
-	"sound_explosion_death"			"Mercenary.ExplosionDeath"	
+	"sound_explosion_death"		"Mercenary.ExplosionDeath"
 }

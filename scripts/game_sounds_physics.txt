@@ -2851,6 +2851,30 @@
 	}
 }
 
+"GrenadeDM.ImpactHard"
+{
+	"soundlevel"		"SNDLVL_74dB"
+	"volume"		"1"
+	"rndwave"
+	{
+		"wave"		"weapons/grenade_dm_impact.wav"
+		"wave"		"weapons/grenade_dm_impact2.wav"
+		"wave"		"weapons/grenade_dm_impact3.wav"
+	}
+}
+
+"GrenadeDM.ImpactSoft"
+{
+	"soundlevel"		"SNDLVL_74dB"
+	"volume"		"1"
+	"rndwave"
+	{
+		"wave"		"weapons/grenade_dm_impact.wav"
+		"wave"		"weapons/grenade_dm_impact2.wav"
+		"wave"		"weapons/grenade_dm_impact3.wav"
+	}
+}
+
 "Grenade.ScrapeRough"
 {
 	"soundlevel"	"SNDLVL_70dB"

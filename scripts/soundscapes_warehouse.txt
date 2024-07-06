@@ -120,9 +120,9 @@
 		"position"		"4"
 		"rndwave"
 		{
-				"wave"		"ambient_mp3/mvm_warehouse/seagull_01.mp3"
-				"wave"		"ambient_mp3/mvm_warehouse/seagull_02.mp3"
-				"wave"		"ambient_mp3/mvm_warehouse/seagull_03.mp3"
+				"wave"		"ambient/mvm_warehouse/seagull_01.wav"
+				"wave"		"ambient/mvm_warehouse/seagull_02.wav"
+				"wave"		"ambient/mvm_warehouse/seagull_03.wav"
 		}	
 	}
 	
@@ -135,16 +135,16 @@
 		"position"  	"1"
 		"rndwave"
 		{
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_01.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_02.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_03.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_04.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_05.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_06.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_07.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_03.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_04.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_05.mp3"		
+			"wave"		"ambient/mvm_warehouse/car_horn_01.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_02.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_03.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_04.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_05.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_06.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_07.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_03.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_04.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_05.wav"		
 		}
 	}
 	
@@ -187,16 +187,16 @@
 		"position"  	"1"
 		"rndwave"
 		{
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_01.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_02.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_03.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_04.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_05.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_06.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_07.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_03.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_04.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_05.mp3"		
+			"wave"		"ambient/mvm_warehouse/car_horn_01.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_02.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_03.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_04.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_05.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_06.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_07.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_03.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_04.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_05.wav"		
 		}
 	}
 	
@@ -209,16 +209,16 @@
 		"position"  	"2"
 		"rndwave"
 		{
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_01.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_02.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_03.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_04.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_05.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_01.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_02.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_03.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_04.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_05.mp3"
+			"wave"		"ambient/mvm_warehouse/car_horn_01.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_02.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_03.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_04.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_05.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_01.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_02.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_03.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_04.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_05.wav"
 		}
 	}
 	
@@ -231,9 +231,9 @@
 		"position"		"3"
 		"rndwave"
 		{
-				"wave"		"ambient_mp3/mvm_warehouse/seagull_01.mp3"
-				"wave"		"ambient_mp3/mvm_warehouse/seagull_02.mp3"
-				"wave"		"ambient_mp3/mvm_warehouse/seagull_03.mp3"
+				"wave"		"ambient/mvm_warehouse/seagull_01.wav"
+				"wave"		"ambient/mvm_warehouse/seagull_02.wav"
+				"wave"		"ambient/mvm_warehouse/seagull_03.wav"
 		}	
 	}
 	
@@ -246,9 +246,9 @@
 		"position"		"4"
 		"rndwave"
 		{
-				"wave"		"ambient_mp3/mvm_warehouse/seagull_01.mp3"
-				"wave"		"ambient_mp3/mvm_warehouse/seagull_02.mp3"
-				"wave"		"ambient_mp3/mvm_warehouse/seagull_03.mp3"
+				"wave"		"ambient/mvm_warehouse/seagull_01.wav"
+				"wave"		"ambient/mvm_warehouse/seagull_02.wav"
+				"wave"		"ambient/mvm_warehouse/seagull_03.wav"
 		}	
 	}
 	
@@ -261,8 +261,8 @@
 		"position"		"5"
 		"rndwave"
 		{
-			"wave"		"ambient_mp3/mvm_warehouse/ship_horn_01.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/ship_horn_02.mp3"
+			"wave"		"ambient/mvm_warehouse/ship_horn_01.wav"
+			"wave"		"ambient/mvm_warehouse/ship_horn_02.wav"
 		}
 	}
 	
@@ -291,10 +291,10 @@
 		"position"		"0"
 		"rndwave"
 		{
-			"wave"		"ambient_mp3/mvm_warehouse/train_01.mp3"	
-			"wave"		"ambient_mp3/mvm_warehouse/train_02.mp3"	
-			"wave"		"ambient_mp3/mvm_warehouse/train_03.mp3"	
-			"wave" 		"ambient_mp3/cp_harbor/train_1shot_04.mp3"
+			"wave"		"ambient/mvm_warehouse/train_01.wav"	
+			"wave"		"ambient/mvm_warehouse/train_02.wav"	
+			"wave"		"ambient/mvm_warehouse/train_03.wav"	
+			"wave" 		"ambient/cp_harbor/train_1shot_04.wav"
 		}
 	}
 
@@ -321,9 +321,9 @@
 		"position"		"0"
 		"rndwave"
 		{
-				"wave"		"ambient_mp3/mvm_warehouse/seagull_01.mp3"
-				"wave"		"ambient_mp3/mvm_warehouse/seagull_02.mp3"
-				"wave"		"ambient_mp3/mvm_warehouse/seagull_03.mp3"
+				"wave"		"ambient/mvm_warehouse/seagull_01.wav"
+				"wave"		"ambient/mvm_warehouse/seagull_02.wav"
+				"wave"		"ambient/mvm_warehouse/seagull_03.wav"
 		}	
 	}
 	
@@ -336,11 +336,11 @@
 		"position"  	"1"
 		"rndwave"
 		{
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_01.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_02.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_03.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_04.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_05.mp3"	
+			"wave"		"ambient/mvm_warehouse/car_horn_01.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_02.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_03.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_04.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_05.wav"	
 		}
 	}
 	
@@ -353,11 +353,11 @@
 		"position"  	"2"
 		"rndwave"
 		{
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_01.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_02.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_03.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_04.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_05.mp3"
+			"wave"		"ambient/mvm_warehouse/car_horn_01.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_02.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_03.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_04.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_05.wav"
 		}
 	}
 
@@ -370,11 +370,11 @@
 		"position"  	"3"
 		"rndwave"
 		{
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_06.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_07.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_03.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_04.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_05.mp3"		
+			"wave"		"ambient/mvm_warehouse/car_passby_06.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_07.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_03.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_04.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_05.wav"		
 		}
 	}
 	
@@ -387,11 +387,11 @@
 		"position"  	"4"
 		"rndwave"
 		{
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_01.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_02.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_03.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_04.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_05.mp3"
+			"wave"		"ambient/mvm_warehouse/car_passby_01.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_02.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_03.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_04.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_05.wav"
 		}
 	}
 	
@@ -450,16 +450,16 @@
 		"position"  	"1"
 		"rndwave"
 		{
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_01.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_02.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_03.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_04.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_05.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_06.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_07.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_03.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_04.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_05.mp3"		
+			"wave"		"ambient/mvm_warehouse/car_horn_01.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_02.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_03.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_04.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_05.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_06.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_07.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_03.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_04.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_05.wav"		
 		}
 	}
 	
@@ -472,16 +472,16 @@
 		"position"  	"2"
 		"rndwave"
 		{
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_01.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_02.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_03.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_04.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_horn_05.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_01.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_02.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_03.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_04.mp3"
-			"wave"		"ambient_mp3/mvm_warehouse/car_passby_05.mp3"
+			"wave"		"ambient/mvm_warehouse/car_horn_01.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_02.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_03.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_04.wav"
+			"wave"		"ambient/mvm_warehouse/car_horn_05.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_01.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_02.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_03.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_04.wav"
+			"wave"		"ambient/mvm_warehouse/car_passby_05.wav"
 		}
 	}
 	

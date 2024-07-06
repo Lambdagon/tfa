@@ -1,0 +1,30 @@
+//--------------------------------------------------------------------------------------------------------------
+// Zombie Response Rule File
+//--------------------------------------------------------------------------------------------------------------
+
+
+//--------------------------------------------------------------------------------------------------------------
+// Auto Speech Pain
+//--------------------------------------------------------------------------------------------------------------
+Response PlayerAttackerPainZombie
+{
+	scene "scenes/Player/Zombie/low/PainSevere01.vcd"
+	scene "scenes/Player/Zombie/low/PainSevere02.vcd"
+}
+Rule PlayerAttackerPainZombie
+{
+	criteria ConceptAttackerPain IsZombie
+	Response PlayerAttackerPainZombie
+}
+
+Response PlayerPainZombie
+{
+	scene "scenes/Player/Zombie/low/PainSharp01.vcd"
+	scene "scenes/Player/Zombie/low/PainSharp02.vcd"
+	scene "scenes/Player/Zombie/low/PainSharp03.vcd"
+}
+Rule PlayerPainZombie
+{
+	criteria ConceptPain IsZombie
+	Response PlayerPainZombie
+}

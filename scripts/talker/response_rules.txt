@@ -284,6 +284,9 @@ criterion "IsOnHeavy" "crosshair_on" "Heavy" "required"
 criterion "IsOnPyro" "crosshair_on" "Pyro" "required"
 criterion "IsOnSpy" "crosshair_on" "Spy" "required"
 criterion "IsOnEngineer" "crosshair_on" "Engineer" "required"
+criterion "IsOnCivilian" "crosshair_on" "Civilian" "required"
+criterion "IsOnMercenary" "crosshair_on" "Mercenary" "required"
+criterion "IsOnZombie" "crosshair_on" "Zombie" "required"
 
 // Custom not on Heavy
 criterion "IsNotOnHeavy" "crosshair_on" "!=Heavy" "required"
@@ -306,6 +309,9 @@ criterion "IsHeavy" "playerclass" "Heavy" "required"
 criterion "IsPyro" "playerclass" "Pyro" "required"
 criterion "IsSpy" "playerclass" "Spy" "required"
 criterion "IsEngineer" "playerclass" "Engineer" "required"
+criterion "IsCivilian" "playerclass" "Civilian" "required"
+criterion "IsMercenary" "playerclass" "Mercenary" "required"
+criterion "IsZombie" "playerclass" "Zombie" "required"
 
 criterion "IsNotScout" "playerclass" "!=Scout" "required" 
 criterion "IsNotSniper" "playerclass" "!=Sniper" "required"
@@ -316,6 +322,9 @@ criterion "IsNotHeavy" "playerclass" "!=Heavy" "required"
 criterion "IsNotPyro" "playerclass" "!=Pyro" "required"
 criterion "IsNotSpy" "playerclass" "!=Spy" "required"
 criterion "IsNotEngineer" "playerclass" "!=Engineer" "required"
+criterion "IsNotCivilian" "playerclass" "!=Civilian" "required"
+criterion "IsNotMercenary" "playerclass" "!=Mercenary" "required"
+criterion "IsNotZombie" "playerclass" "!=Zombie" "required"
 
 
 criterion "IsVictimScout" "victimclass" "Scout" "required" weight 0
@@ -327,6 +336,9 @@ criterion "IsVictimHeavy" "victimclass" "Heavy" "required" weight 0
 criterion "IsVictimPyro" "victimclass" "Pyro" "required" weight 0
 criterion "IsVictimSpy" "victimclass" "Spy" "required" weight 0
 criterion "IsVictimEngineer" "victimclass" "Engineer" "required"  weight 0
+criterion "IsVictimCivilian" "victimclass" "Civilian" "required"  weight 0
+criterion "IsVictimMercenary" "victimclass" "Mercenary" "required"  weight 0
+criterion "IsVictimZombie" "victimclass" "Zombie" "required"  weight 0
 
 criterion "IsNotVictimScout" "victimclass" "!=Scout" "required" weight 0
 criterion "IsNotVictimSniper" "victimclass" "!=Sniper" "required" weight 0
@@ -337,6 +349,9 @@ criterion "IsNotVictimHeavy" "victimclass" "!=Heavy" "required" weight 0
 criterion "IsNotVictimPyro" "victimclass" "!=Pyro" "required" weight 0
 criterion "IsNotVictimSpy" "victimclass" "!=Spy" "required" weight 0
 criterion "IsNotVictimEngineer" "victimclass" "!=Engineer" "required" weight 0
+criterion "IsNotVictimCivilian" "victimclass" "!=Civilian" "required" weight 0
+criterion "IsNotVictimMercenary" "victimclass" "!=Mercenary" "required"  weight 0
+criterion "IsNotVictimZombie" "victimclass" "!=Zombie" "required"  weight 0
     
 
 
@@ -499,6 +514,7 @@ criterion "WeaponIsScotsmansSkullcutter" "item_name" "The Scotsman's Skullcutter
 criterion "WeaponIsClassicSniperrifle" "playerweapon" "tf_weapon_sniperrifle_classic" "required"
 criterion "WeaponIsRocketLauncherAirStrike" "playerweapon" "tf_weapon_rocketlauncher_airstrike" "required"
 criterion "WeaponIsMutatedMilk" "item_name" "Mutated Milk" "required" weight 10
+criterion "WeaponIsNailGun" "playerweapon" "tf_weapon_nailgun" "required"
 
 //Custom healed concept and critical hit
 criterion "IsBeingHealed" "beinghealed" "1" "required"
@@ -677,14 +693,6 @@ criterion "IsNotInHell"	"IsInHell"	"0" required
 #include "talker/Medic.txt"
 #include "talker/Pyro.txt"
 #include "talker/Spy.txt"
-#include "talker/events.txt"
-#include "talker/Heavy_auto.txt"
-#include "talker/Scout_auto.txt"
-#include "talker/Engineer_auto.txt"
-#include "talker/Sniper_auto.txt"
-#include "talker/Soldier_auto.txt"
-#include "talker/Demoman_auto.txt"
-#include "talker/Medic_auto.txt"
-#include "talker/Pyro_auto.txt"
-#include "talker/Spy_auto.txt"
-
+#include "talker/Civilian.txt"
+#include "talker/Mercenary.txt"
+#include "talker/Zombie.txt"
