@@ -1,0 +1,11 @@
+"Spritecard"
+{
+	"$basetexture"	"Effects/wispy_smoke"
+	"$surfaceprop"	"default"
+	"$translucent"	1
+	"$vertexcolor" 	1
+	"$vertexalpha"	1
+	$DEPTHBLEND "0" 
+	$startfadesize .15
+	$endfadesize .3
+}

@@ -1,0 +1,16 @@
+LightmappedGeneric
+{
+	$basetexture "effects/tempglow"
+
+	$alpha 0.84
+
+	Proxies
+	{
+		AnimatedTexture
+		{
+			animatedtexturevar $basetexture
+			animatedtextureframenumvar $frame
+			animatedtextureframerate 20
+		}
+	}
+}

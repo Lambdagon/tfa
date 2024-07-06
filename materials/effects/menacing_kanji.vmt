@@ -1,0 +1,13 @@
+"UnlitGeneric"
+{
+	"$basetexture" "Effects/menacing_kanji"
+	"$allowalphatocoverage"	1
+	"$translucent"		1
+	"$alphatest" 		1
+	"$vertexcolor"		1
+	"$vertexalpha"		 1
+	"$alphatestreference"	.5
+
+}
+
+
