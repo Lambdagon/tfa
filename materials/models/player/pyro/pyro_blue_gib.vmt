@@ -1,0 +1,9 @@
+"Patch"
+{
+	include "materials/models/player/pyro/pyro_red_gib.vmt"
+	
+	insert
+	{
+		"$basetexture"	"models/player/pyro/pyro_blue_gib"
+	}
+}

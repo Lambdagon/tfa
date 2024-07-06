@@ -1,0 +1,9 @@
+"Patch"
+{
+	include "materials/models/player/engineer/engineer_red_gib.vmt"
+	
+	insert
+	{
+		"$basetexture"	"models/player/engineer/engineer_yellow_gib"
+	}
+}

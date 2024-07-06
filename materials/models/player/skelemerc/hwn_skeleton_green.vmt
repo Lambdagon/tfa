@@ -1,0 +1,112 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/skelemerc/hwn_skeleton_custom"
+	"$detail" "effects/tiledfire/fireLayeredSlowTiled512.vtf"	
+	"$detailscale" "5"
+	"$detailblendfactor" ".0"
+	"$detailblendmode" "6"
+	
+	"$yellow" "0"
+	
+// HERE'S WHERE GLOWY STUFF HAPPENS //
+//">=DX90"
+	"$selfillum" "1"
+	"$selfillumtint" "[142 220 41]"
+	"$selfIllumFresnel" "1"
+	"$selfIllumFresnelMinMaxExp" "[.05 0 25]" // 0.0 1.0 1.0 is the default
+	//"$selfIllumFresnelMinMaxExp" "[0 10 20]" // 0.0 1.0 1.0 is the default
+	"$basemapalphaphongmask" "1"
+
+// END GLOWY STUFF //
+
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" "1"
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$phongfresnelranges" "[.25 .5 1]"
+	"$halflambert" "0"
+
+	"$blendtintbybasealpha"		"1"
+	"$blendtintcoloroverbase"		"1"
+	"$colortint_base"		"{55 135 67}"
+	"$color2"		"{55 135 67}"
+	"$colortint_tmp"		"[0 0 0]"
+	
+
+	"$rimlight" "1"
+	"$rimlightexponent" "0"
+	"$rimlightboost" ".1"
+	"$rimmask" "1"  
+
+	
+	"$cloakPassEnabled" "1"
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$detail"
+			"animatedtextureframenumvar" "$detailframe"
+			"animatedtextureframerate" 30
+		}
+		"BurnLevel"
+		{
+			"resultVar" "$detailblendfactor"
+		}
+		"ItemTintColor"
+		{
+			"resultVar"		"$colortint_tmp"
+		}
+		"SelectFirstIfNonZero"
+		{
+			"srcVar1"		"$colortint_tmp"
+			"srcVar2"		"$colortint_base"
+			"resultVar"		"$color2"
+		}
+		"Multiply"
+		{
+			"srcVar1"		"$color2"
+			"srcVar2"		"$yellow"
+			"resultVar"		"$color2"
+		}
+
+// here's where i start adding things
+		
+		"YellowLevel"
+		{
+			"resultVar" "$yellow"
+		}
+
+		"Equals"
+		{
+			"srcVar1" "$yellow"
+			"resultVar" "$color2"
+		}
+
+		"Sine" // pulsing effect
+		{
+			"sineperiod" "2"
+			"sinemin" ".00125"
+			"sinemax" ".1"
+			"resultVar" "$selfillumfresnelminmaxexp[1]"
+		}
+		
+		"Sine"
+		{
+			"sineperiod" "2"
+			"sinemin" "0"
+			"sinemax" "55"
+			"resultVar" "$selfillumfresnelminmaxexp[3]"
+		}
+		
+		"Sine"
+		{
+			"sineperiod" "1"
+			"sinemin" "25"
+			"sinemax" "5"
+			"resultVar" "$rimlightboost" 
+		}
+	}
+}
+
+

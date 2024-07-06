@@ -1,0 +1,9 @@
+"Patch"
+{
+	include "materials/models/player/demo/demoman_red_gib.vmt"
+	
+	insert
+	{
+		"$basetexture"	"models/player/demo/demoman_blue_gib"
+	}
+}
