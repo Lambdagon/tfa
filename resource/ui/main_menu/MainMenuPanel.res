@@ -608,7 +608,7 @@
 		"visible"			"1"
 		"enabled"			"1"
 		"labelText"			"VersionLabel"
-		"textAlignment"		"north-east"
+		"textAlignment"		"east"
 		"fgcolor"			"HudOffWhite"
 		"font"				"MenuSmallFont"
 	}	
