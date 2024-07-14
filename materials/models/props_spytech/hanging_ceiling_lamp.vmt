@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_spytech/hanging_ceiling_lamp"
+	"$selfillum" "1"
+}

@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_lights/floodlight001"
+	"$selfillum" 1
+}

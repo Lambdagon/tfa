@@ -5,7 +5,6 @@
 	"$basetexture" "effects/invulnoverlay/invuln_overlay"
 //	"$additive" "1"
 	"$mod2x" "1"
-	"$color2" "[.4 .65 .4]"
+	"$color2" "[.27 .56 .27]"
 }
-
 

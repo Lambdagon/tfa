@@ -1,0 +1,13 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "pl_snowycoast/nature/snowcliff001"
+	"$basetexture2" "Nature/snow_full001"
+	"$blendmodulatetexture" "pl_snowycoast/nature/snowwall_blendmask"
+	"%tooltexture" "Nature/blendgroundtograss008_tooltexture"
+	"$bumpmap" "Nature/rockwall004_bump-ssbump"
+	"$bumpmap2" "Nature/snow_full001_normal"
+	"$surfaceprop" "snow"
+
+	"%keywords" "tf"
+	"$ssbump" "1"
+}

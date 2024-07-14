@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_snowycoast/gascan_single03"
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" ".25"	
+	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
+	"$phongfresnelranges"	"[2 1 6]"
+	"$basemapalphaphongmask" "1"
+}

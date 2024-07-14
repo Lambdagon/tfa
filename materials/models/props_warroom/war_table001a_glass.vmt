@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_warroom/war_table001a_glass"
+	"$surfaceprop" "glass"
+}

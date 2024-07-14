@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "custom_models/hatstand/hatstand1"
+	"$surfaceprop" "plastic"
+	"$phong" "1"
+	"$phongexponent" "33"
+	"$phongboost" ".125"	
+	"$phongfresnelranges"	"[2 1 .8]"
+	"$halflambert" "0"
+	"$basemapalphaphongmask" "1"
+}

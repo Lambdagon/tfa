@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "custom_textures/sidewalk"
+	"$bumpmap" "custom_textures/sidewalk_normal"
+	"$surfaceprop" "Concrete"
+	"%keywords" "tf"
+}

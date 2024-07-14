@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_lights/spotlight001a_blue"
+	"$surfaceprop" "metal"
+	"$selfillum" 1
+}

@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/furnace/railgun_furnace_glass_diffuse"
+	"$surfaceprop" "Glass"
+
+	"$envmap" "env_cubemap"
+	"$additive" 0
+	"$translucent" 1
+	"$model" 1
+	
+	//"$envmapcontrast" 0.3
+	//"$envmapsaturation" 0.7
+	//"$envmaptint" "[ 0.36 0.36 0.36 ]"
+}

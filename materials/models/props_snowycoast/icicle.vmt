@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	$baseTexture "models/props_forest/icicle.vtf"
+
+	"$phong" "1"
+	"$phongexponent" "100"
+	"$phongboost" "3"	
+	"$lightwarptexture" "models\props_forest/icicle_lightwarp"
+ 	"$phongfresnelranges" "[1 .5 1]"
+	"$basemapalphaphongmask" "1"
+
+}

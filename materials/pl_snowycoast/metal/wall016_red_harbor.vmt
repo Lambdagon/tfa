@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "pl_snowycoast/metal/wall016_red_harbor"
+	"$surfaceprop" "metal"
+
+	//$bumpmap "metal/wall016_bump-ssbump"
+	//$ssbump "1"
+	"%keywords" "tf"
+
+}

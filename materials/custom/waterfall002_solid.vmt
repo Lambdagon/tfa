@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+"$baseTexture" "custom/waterfall002"
+	"$surfaceprop"	"default"
+//	"$translucent" "1"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" -.23
+			"texturescrollangle" 100
+		}
+	}
+}

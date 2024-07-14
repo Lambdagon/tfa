@@ -1,0 +1,15 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "Nature/gravelcoal001"	
+	"$basetexture2" "Nature/snow_full001"	
+	"$blendmodulatetexture" "Nature/gravelground001_blendmask" // the modulate from the gravel blend
+	
+	
+	"%tooltexture" "pl_snowycoast/nature/blendsnowtogravel001_tool"
+	"$bumpmap" "Nature/gravelground001_height-ssbump"
+	"$bumpmap2" "Nature/snow_full001_normal"
+	"$surfaceprop" "snow"
+	
+	"%keywords" "tf,snowycoast"
+	"$ssbump" "1"
+}

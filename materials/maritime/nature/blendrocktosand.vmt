@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "maritime/nature/maritime_rock001"
+	"$basetexture2" "maritime/nature/sea_sand_maritime_001"
+	"%keywords" "tf, bulletcrops"
+
+}
+
+// BulletCrops Project
+// http://www.minerality.fr/bulletcropsproject/

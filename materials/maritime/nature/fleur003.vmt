@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "maritime/nature/fleur003"
+	"$surfaceprop" "wood"
+	"%keywords" "tf, bulletcrops"
+	"$translucent" 1
+	"$alphatest" 1
+}
+
+// BulletCrops Project
+// http://www.minerality.fr/bulletcropsproject/

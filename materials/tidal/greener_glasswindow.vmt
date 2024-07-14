@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "tidal/greener_glasswindow"
+	"$surfaceprop" "glass"
+	"$translucent" 1
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmapsaturation" .8
+	"$envmaptint" "[1 1 1]"
+	"%keywords" "tf"
+	"$basetexturetransform" "center .5 .5 scale 4 4 rotate 45 translate 0 0"
+}

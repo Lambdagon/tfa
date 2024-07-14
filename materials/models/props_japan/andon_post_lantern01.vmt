@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\props_japan\andon_post_lantern01"
+	"$selfillum" "1"
+}

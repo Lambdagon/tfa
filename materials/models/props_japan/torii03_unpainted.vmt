@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/props_japan/torii03_unpainted"
+	$surfaceprop wood
+	$model 1
+	
+}

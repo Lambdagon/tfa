@@ -1,6 +1,6 @@
 "UnlitGeneric"
 {
-	"$basetexture" "console/image_demo"
+	"$basetexture" "console/image_medic"
 	"$ignorez" 1
 	"$no_fullbright" "1"
 	"$nolod" "1"

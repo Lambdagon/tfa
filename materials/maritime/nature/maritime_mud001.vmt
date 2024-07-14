@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "maritime/nature/maritime_mud001"
+	"$bumpmap" "Nature/mudground001_height-ssbump"
+	"%keywords" "tf, bulletcrops"
+	"$ssbump" "1"
+	"$surfaceprop" "dirt"
+
+}
+
+// BulletCrops Project
+// http://www.minerality.fr/bulletcropsproject/

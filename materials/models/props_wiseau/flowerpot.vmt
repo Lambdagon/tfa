@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_wiseau/flowerpot"
+	"$surfaceprop"	"default"
+	"$phong" "1"
+	"$phongexponent" "0"
+	"$phongboost" "0"
+	"$phongfresnelranges"		"[.25 .5 1]"
+	"$rimlight"		"1"
+	"$rimlightexponent"		"2"
+	"$rimlightboost"		"1"
+	"$halflambert"		"1"
+	"$lightwarptexture"		"models/player/pyro/pyro_lightwarp"
+}

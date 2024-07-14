@@ -1,0 +1,23 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Props/rubberconveyerbelt"
+	"$surfaceprop" "rubber"
+	$offset 0
+	Proxies // proxies are listed inside this block
+	{
+		TextureScroll
+		{
+			textureScrollVar $offset 
+			textureScrollRate 5.2
+			textureScrollAngle 0
+		}
+		TextureTransform
+		{
+			translateVar $offset
+			resultVar $basetexturetransform
+			
+		}
+	}
+"%keywords" "tf"
+}

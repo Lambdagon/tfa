@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\props_lights/walllight001a"
+	"$surfaceprop" "metal"
+	"$selfillum" 1
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/props_japan//japanese_bridge02"
+	$surfaceprop wood
+	$model 1
+	
+}

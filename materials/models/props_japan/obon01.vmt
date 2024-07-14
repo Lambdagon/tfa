@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_japan/obon01"
+	"$model" 1
+	"$surfaceprop" "wood"
+}

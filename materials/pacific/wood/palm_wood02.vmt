@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "pacific/wood/palm_wood02"
+	"$surfaceprop" "wood"
+	"%keywords" "tf, pacific"
+	"$detail" "overlays/detail006"
+	"$detailscale" "1"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "1"
+}
+
+// TF2Maps.net Pacific Pack

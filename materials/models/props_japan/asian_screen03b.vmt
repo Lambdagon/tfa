@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/props_japan/asian_screen03b"
+	"$model" 1
+	"$surfaceprop" "paper"
+	"$translucent" 1
+}

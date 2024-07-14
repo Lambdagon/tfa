@@ -2,5 +2,4 @@
 {
 	"$baseTexture" "signs/resupply_red"
 	"$decal" "1"
-	"%keywords" "tf"
 }

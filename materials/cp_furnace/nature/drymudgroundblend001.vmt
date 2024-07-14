@@ -1,0 +1,11 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "Nature/rockground006"
+	"$basetexture2" "cp_furnace/Nature/drymudground001"
+	"%tooltexture" "cp_furnace/Nature/drymudgroundblend001-tooltexture"
+        "$blendmodulate" "cp_furnace/Nature/drymudground001-blendmodulate"
+	"%keywords" "tf"
+	"$surfaceprop" "dirt"
+
+
+}

@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "maritime/nature/dirtground001"
+	"%keywords" "tf, bulletcrops"
+	"$surfaceprop" "dirt"
+	"$detail" "overlays/detail004"
+	"$detailscale" "1.2"
+	"$detailblendmode" "0"
+	"$detailblendfactor" "1"
+}
+
+// BulletCrops Project
+// http://www.minerality.fr/bulletcropsproject/

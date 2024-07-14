@@ -4,5 +4,6 @@
 	"$translucent" 1
 	"$nodecal" 1
 	"%compileNodraw" 1
-	"%keywords" "Tools"
+	"%compileDetail" 1
+	"%keywords" "tf,Tools"
 }

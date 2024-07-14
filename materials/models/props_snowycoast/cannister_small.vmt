@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/props_snowycoast/cannister_small"
+	"$basemapalphaphongmask" "1"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" ".5"	
+	"$phongfresnelranges"	"[4 15 20]"
+
+  "$selfillum" "1"
+  "$selfillummask"  "models/props_snowycoast/cannister_small_illum"
+}

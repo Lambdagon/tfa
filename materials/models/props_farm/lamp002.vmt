@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_farm/Lamp002"
+	"$selfillum" "1"
+	"$nocull" "1"
+}

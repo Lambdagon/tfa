@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "cp_furnace/signs/sign001"
+	"$decal" 1
+	"$decalscale" 0.25
+	"$translucent" 1
+	"%keywords" "tf"
+}
+
+// This texture is by Nineaxis
+// http://fabrydesign.com

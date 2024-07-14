@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "maple_ridge/maplesign003"
+	"$decal" 1
+	"$translucent" 1
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+	"$alpha" .5
+	"%keywords" "tf"
+}

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/weapons/c_items/c_shogun_katana"
+	$surfaceprop wood
+	$model 1
+	
+}

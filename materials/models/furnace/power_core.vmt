@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\furnace\power_core"
+	"$selfillum" 1
+}

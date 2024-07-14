@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "tidal/tidal_horizontal_logo"
+	"$decal" "1"
+	"$translucent" 1 
+	"%keywords" "tf"
+}

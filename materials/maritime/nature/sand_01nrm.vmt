@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "maritime/nature/Sand_01"
+	"$bumpmap" "maritime/nature/Sand_01nrm"
+	"%keywords" "tf, bulletcrops"
+	"$surfaceprop" "sand"
+}
+
+// BulletCrops Project
+// http://www.minerality.fr/bulletcropsproject/

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/player/items/soldier/soldier_samurai_red"
+	$surfaceprop wood
+	$model 1
+	
+}

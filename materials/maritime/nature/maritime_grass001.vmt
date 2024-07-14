@@ -1,0 +1,11 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "maritime/nature/maritime_grass_001"
+	"%keywords" "tf, bulletcrops"
+	"$surfaceprop" "grass"
+
+
+}
+
+// BulletCrops Project
+// http://www.minerality.fr/bulletcropsproject/

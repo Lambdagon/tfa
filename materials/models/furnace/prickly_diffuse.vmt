@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/furnace/prickly_diffuse"
+	"$alphatest" "1"
+
+	"$nocull" 1 
+	
+	
+
+	
+	
+
+}

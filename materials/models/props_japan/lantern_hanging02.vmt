@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\props_japan\lantern_hanging02"
+	"$selfillum" "1"
+}

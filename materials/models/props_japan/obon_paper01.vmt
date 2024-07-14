@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/props_japan/obon_paper01"
+	"$translucent" "1"
+	"$model" 1
+	"$surfaceprop" "wood"
+}

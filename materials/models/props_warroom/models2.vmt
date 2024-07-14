@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/props_warroom/models"
+	"$surfaceprop"	"plastic"
+	"$blendtintbybasealpha" "1" 
+	"$blendtintcoloroverbase" "1"   // between 0-1 determines how much blended by tinting vs. replacing the color
+
+	"$colortint_base" "{0 0 0}" // put the RGB value of whats being colored when no paint is present, if $blendtintcoloroverbase is 0 then put [1 1 1] here.
+	"$colortint_tmp" "[1 0 0]"
+	"$color2" "{0 38 81}"
+}
