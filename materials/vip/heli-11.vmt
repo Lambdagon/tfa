@@ -1,0 +1,11 @@
+"UnlitGeneric"
+{
+	"$translucent" 1
+	"$basetexture" "vip/heli-11"
+	"$basetexturetransform" "center .5 .5 scale 8 8 rotate 0 translate 0 -2.75"
+	
+
+	
+	"$ignorez" 1
+	"%keywords" "tf"
+}

@@ -3,7 +3,7 @@ WeaponData
 	// Attributes Base.
 	"printname"		"#TF_Weapon_StickybombLauncher"
 	"BuiltRightHanded"	"0"
-	"weight"		"2"
+	"weight"		"3"
 	"WeaponType"		"primary"
 	"ITEM_FLAG_NOITEMPICKUP" "1"
 
@@ -16,45 +16,41 @@ WeaponData
 	"TimeFireDelay"		"0.6"
 	"TimeIdle"		"0.6"
 	"TimeIdleEmpty"		"0.6"
-	"TimeReloadStart"	"0.33"
+	"TimeReloadStart"	"0.1"
 	"TimeReload"		"0.67"
-	"ProjectileType"	"projectile_pipe_remote"
+	"HasTeamSkins_Worldmodel"	"1"
+	"HasTeamSkins_Viewmodel"	"1"
+	"MaxAmmo"		"24"
 
 	// Ammo & Clip.
 	"primary_ammo"		"TF_AMMO_SECONDARY"
 	"secondary_ammo"	"None"
 	"clip_size"		"8"
 	"default_clip"		"8"
-	"MaxAmmo"		"24"
+	"ProjectileType"	"projectile_pipe_remote"
 
 	// Buckets.
 	"bucket"		"1"
 	"bucket_position"	"0"
-
-	// Models.
-	"viewmodel"		"models/weapons/v_models/v_stickybomb_launcher_demo.mdl"
-	"playermodel"		"models/weapons/w_models/w_stickybomb_launcher.mdl"
 	
-	//"HasTeamSkins_Viewmodel"	"1"
-
-	// Muzzleflash.
-	"MuzzleFlashParticleEffect" "muzzle_pipelauncher"
-	
-	// Explosions.
+	"ExplosionSound"	"Weapon_Grenade_Pipebomb.Explode"
 	"ExplosionEffect"	"ExplosionCore_wall"
 	"ExplosionPlayerEffect"	"ExplosionCore_MidAir"
 	"ExplosionWaterEffect"	"ExplosionCore_MidAir_underwater"
-	
-	"HasCritExplosions"		"1"
-	
-	"ExplosionSound"	"Weapon_Grenade_Pipebomb.Explode"
+
+	// Animation.
+	"viewmodel"		"models/weapons/v_models/v_stickybomb_launcher_demo.mdl"
+	"playermodel"		"models/weapons/w_models/w_stickybomb_launcher.mdl"
+	"anim_prefix"		"pipe"
+
+	// Muzzleflash
+	"MuzzleFlashParticleEffect" "muzzle_pipelauncher"
 
 	// Sounds.
 	// Max of 16 per category (ie. max 16 "single_shot" sounds).
 	SoundData
 	{
 		"single_shot"	"Weapon_StickyBombLauncher.Single"
-		"double_shot"	"Weapon_StickyBombLauncher.ChargeUp"
 		"reload"		"Weapon_StickyBombLauncher.WorldReload"
 		"special2"	"Player.UseDeny"
 		"special3"	"Weapon_StickyBombLauncher.ModeSwitch"

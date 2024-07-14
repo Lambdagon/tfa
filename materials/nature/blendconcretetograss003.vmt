@@ -1,0 +1,13 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "Cp_bloodstained/concrete_01"
+	"$basetexture2" "Nature/grass_07"
+	"%tooltexture" "editor-abs/blendttx/nature/blendconcretetograss001"
+	"$blendmodulatetexture" "concrete/concretefloor007b_blendmask"
+//	"$bumpmap" "Cp_bloodstained/concrete_01_height-ssbump"
+	"%detailtype" "tf_forest_grass"
+	"%keywords" "tf"
+//	"$ssbump" "1"
+	"$surfaceprop" "concrete"
+	"$surfaceprop2" "dirt"
+}

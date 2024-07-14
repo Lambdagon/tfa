@@ -2,7 +2,7 @@
 {
 	"$basetexture" "Nature/dirtground001"
 	"$basetexture2" "Nature/dirtground002"
-	"%tooltexture" "Nature/blendgroundtogravel001_tooltexture"
+	"%tooltexture" "editor-abs/blendttx/nature/blendgroundtogravel001"
 	"$bumpmap" "Nature/dirtground001_height-ssbump"
 	"$bumpmap2" "Nature/dirtground002_height-ssbump"
 	"$blendmodulatetexture" "Nature/dirtground002_blendmask"

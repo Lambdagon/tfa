@@ -19,20 +19,20 @@
 		"invis"
 		{
 		}
-		// "StickybombGlowColor"
-		// {
-			// "resultVar" "$glowcolor"
-		// }
-		// "Equals"
-		// {
-			// "srcVar1"  "$glowcolor"
-			// "resultVar" "$selfillumtint"
-		// }
-		// "Equals"
-		// {
-			// "srcVar1"  "$glowcolor"
-			// "resultVar" "$color2"
-		// }
+		"StickybombGlowColor"
+		{
+			"resultVar" "$glowcolor"
+		}
+		"Equals"
+		{
+			"srcVar1"  "$glowcolor"
+			"resultVar" "$selfillumtint"
+		}
+		"Equals"
+		{
+			"srcVar1"  "$glowcolor"
+			"resultVar" "$color2"
+		}
 	}
 
 

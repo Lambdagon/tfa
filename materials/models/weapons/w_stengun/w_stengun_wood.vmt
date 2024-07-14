@@ -4,12 +4,12 @@
 
 	"$phong" "1"
 	"$phongexponent" "2"
-	"$phongboost" "2"	
+	"$phongboost" ".02"	
 	"$lightwarptexture" "models/player/pyro/pyro_lightwarp"
 	"$phongfresnelranges"	"[1 .5 .05]"
 	"$halflambert" "1"
 
-	"$basemapalphaphongmask" "1"
+//	"$basemapalphaphongmask" "1"
 
 	// Rim lighting parameters
 	"$rimlight" "1"			

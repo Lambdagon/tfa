@@ -1,0 +1,93 @@
+"Water"
+{
+//for d2_coast_01
+	"$abovewater" 1
+	"%compilewater" 1
+	"$forceexpensive" 1
+	"$reflectentities" 0
+	"$envmap" "env_cubemap"
+	//"$envmapcontrast" "1"
+	//"$envmaptint"[1 1 1]"	
+	"%tooltexture" "nature/water_frame01_normal"
+	"$refracttexture" "_rt_WaterRefraction"
+	"$refractamount" "5"
+
+
+	"$reflecttexture" "_rt_WaterReflection"
+	"$reflectamount" "1"
+
+	"$scale" "[1 1]"
+
+	"$bumpmap" "nature/water/tfwater001_dudv"
+	"$normalmap" "water/tfwater001_normal"
+
+	"$surfaceprop" "water"
+	"$bottommaterial" "nature/water_coast01_beneath"
+	"$bumpframe" "0"
+
+	"$fogenable" 1
+	"$fogcolor" "{7 16 18}"
+	"srgb?$fogcolor" "{21 48 52}"
+//	"$fogcolor" "{15 32 36}"
+//	"$fogcolor" "{22 47 53}"
+	"$fogstart" 100.00
+	"$fogend" 500.00
+
+	"$scroll1" "[.01 .01 .05]"
+	"$scroll2" "[-.025 .025 .075]"
+"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedtexturevar" "$normalmap"
+			"animatedtextureframenumvar" "$bumpframe"
+			"animatedtextureframerate" 30.00
+		}
+
+		"Sine"
+		{
+			"sineperiod" "24"
+			"sinemin" -0.5
+			"sinemax" 0.5
+			"resultVar" "$curr"
+		}
+		"Sine"
+		{
+			"sineperiod" "16"
+			"sinemin" 0.5
+			"sinemax" -0.5
+			"resultVar" "$curr2"
+		}
+
+		"Equals"
+		{
+			"srcVar1" "$curr2"
+			"resultVar" "$temp[0]"
+		}
+		"Equals"
+		{
+			"srcVar1" "$curr"
+			"resultVar" "$temp[1]"
+		}
+
+ 
+		"TextureTransform"
+		{
+			"translateVar" "$temp"
+			"resultVar" "$bumptransform"
+		}  
+
+//		"TextureScroll"
+//		{
+//			"texturescrollvar" "$bumptransform"
+//			"texturescrollrate" .1
+//			"texturescrollangle" 45.00
+//		}
+		"WaterLOD"
+		{
+			// fixme!  This has to be here, or material loading barfs.
+			"dummy" 0
+		}
+	}
+
+}

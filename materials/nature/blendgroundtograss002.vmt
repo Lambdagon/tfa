@@ -2,7 +2,7 @@
 {
 	"$basetexture" "Nature/grass_01"
 	"$basetexture2" "Nature/grass_02"
-	"%tooltexture" "Nature/blendgroundtograss002_tooltexture"
+	"%tooltexture" "editor-abs/blendttx/nature/blendgroundtograss002"
 	"%detailtype" "tf_cattail"
 	"%keywords" "tf"
 	"$surfaceprop" "dirt"

@@ -2,7 +2,7 @@
 {
 	"$basetexture" "Nature/rockwall004"
 	"$basetexture2" "Nature/rockground001"
-	"%tooltexture" "Nature/blendrockgroundwall004_tooltexture"
+	"%tooltexture" "editor-abs/blendttx/nature/blendrockgroundwall004"
 	"$bumpmap" "Nature/rockwall004_bump-ssbump"
 	"$bumpmap2" "Nature/rockground001_bump-ssbump"
 	"$ssbump" "1"

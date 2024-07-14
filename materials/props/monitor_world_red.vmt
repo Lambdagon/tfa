@@ -1,9 +1,18 @@
-"LightmappedGeneric"
+"UnlitGeneric"
 {
-	// Original shader: BaseTimesLightmapSelfIllum
-	"$basetexture" "Props/monitor_world_red"
-	"$selfillum" 1
-	"$surfaceprop" "glass"
-//	"$nofog" "1"
-	"%keywords" "tf"
+   "$basetexture" "props/monitor_world_red"
+   "$vertexcolor" 		1 
+   "$vertexalpha" 		1 
+   "$nolod" 		1
+   "$translucent" 		1
+   "$surfaceprop" "glass"
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" "1"
+      }
+   }
 }

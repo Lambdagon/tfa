@@ -3,41 +3,42 @@ WeaponData
 	// Attributes Base.
 	"printname"		"#TF_Weapon_Nailgun"
 	"BuiltRightHanded"	"0"
-	"weight"		"3"
-	"WeaponType"		"item2"
-	"ITEM_FLAG_NOITEMPICKUP" 	"1"
-	
+	"weight"		"4"
+	"WeaponType"		"primary"
+		
 	// Attributes TF.
-	"Damage"		"15"
+	"Damage"		"12"
 	"Range"			"8192"
 	"BulletsPerShot"	"1"
-	"Spread"		"0.025"
+	"Spread"		"0"
 	"TimeFireDelay"		"0.1"
-	"TimeReload"		"1.37"
-	"UseRapidFireCrits"	"1"
 	"ProjectileType"	"projectile_nail"
+	"UseRapidFireCrits"	"1"
+	"MaxAmmo"		"100"
 
 	// Ammo & Clip.
 	"primary_ammo"		"TF_AMMO_PRIMARY"
 	"secondary_ammo"	"None"
-	"clip_size"		"40"
-	"default_clip"		"40"
-	"MaxAmmo"		"120"
+	clip_size		40
+	default_clip		40
 
 	// Buckets.
 	"bucket"		"0"
 	"bucket_position"	"0"
 
-	// Models.
-	"viewmodel"		"models/weapons/v_models/v_nailgun_scout.mdl"
-	"playermodel"		"models/weapons/w_models/w_nailgun.mdl"
-	
-	// Muzzleflash.
+
+	// Muzzleflash
 	//"MuzzleFlashModel"		"models/effects/muzzleflash/minigunmuzzle.mdl"
 	"MuzzleFlashParticleEffect"	"muzzle_tranq"
 
+	// Animation.
+	"viewmodel"		"models/weapons/v_models/v_nailgun_scout.mdl"
+	"playermodel"		"models/weapons/w_models/w_nailgun.mdl"
+	"anim_prefix"		"nailgun"
+
 	// Sounds.
 	// Max of 16 per category (ie. max 16 "single_shot" sounds).
+
 	SoundData
 	{
 		"reload"		"Weapon_NailGun.Reload"

@@ -1,4 +1,5 @@
 "LightmappedGeneric"
 {
 	"$baseTexture" "test/color_red"
+	"%keywords" "tf"
 }

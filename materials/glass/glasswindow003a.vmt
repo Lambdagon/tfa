@@ -4,4 +4,5 @@
 	"$surfaceprop" "glass"
 //	"$selfillum" 1
 	"$translucent" 1
+	"%keywords" "tf"
 }

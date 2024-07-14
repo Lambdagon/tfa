@@ -1,7 +1,6 @@
 "LightmappedGeneric"
 {
 	"%tooltexture" "dev/tfwater_normal"
-	"%keywords" "tf"
 	"%compilewater" "1"
 	"%compileKeepLight" 1
 

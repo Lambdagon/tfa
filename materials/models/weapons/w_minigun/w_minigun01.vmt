@@ -32,7 +32,7 @@
 	"$cloakPassEnabled" "1"
 	"Proxies"
 	{
-		"invis"
+		"weapon_invis"
 		{
 		}
 		"ModelGlowColor"

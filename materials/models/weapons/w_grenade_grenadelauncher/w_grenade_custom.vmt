@@ -26,7 +26,16 @@
 			"sinemax" 2.00
 			"sineperiod" 0.30
 		}
-		"PlayerTintColor"
+	}
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+	"Proxies"
+	{
+		"invis"
+		{
+		}
+		"ItemTintColor"
 		{
 			"resultVar"		"$colortint_tmp"
 		}

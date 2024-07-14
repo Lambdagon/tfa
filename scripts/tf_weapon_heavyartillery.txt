@@ -12,7 +12,7 @@ WeaponData
 	"Range"			"8192"
 	"BulletsPerShot"	"1"
 	"Spread"		"0.025"
-	"PunchAngle"		"6.5" 
+	"PunchAngle"		"7.0" 
 	"TimeFireDelay"		"0.1"
 	"ProjectileType"	"projectile_bullet"
 	"BrassModel"		"models/weapons/shells/shell_pistol.mdl"
@@ -41,8 +41,8 @@ WeaponData
 	SoundData
 	{
 		"single_shot"		"Weapon_HeavyArtillery.Single"
-		"empty"			"Weapon_SMG.ClipEmpty"	
-		"reload"		"Weapon_SMG.WorldReload"
+		"empty"			"Weapon_Shotgun.ClipEmpty"
+		"reload"		"Weapon_Shotgun.WorldReload"
 		"burst"			"Weapon_HeavyArtillery.SingleCrit"
 	}
 

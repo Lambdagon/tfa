@@ -1,0 +1,18 @@
+"LightmappedGeneric"
+//"DecalModulate"
+{
+	"$basetexture" "water\caustic\causticfade"
+	"$basetexture2" "water\tool\alphablack"
+	"$surfaceprop" "no_decal"
+	"$translucent" "1"
+	"$additive" 1
+	"Proxies"
+		{
+		"AnimatedTexture"
+			{
+			"animatedtexturevar" "$basetexture"
+			"animatedtextureframenumvar" "$frame"
+			"animatedtextureframerate" 20.00
+			}
+		}
+}

@@ -23,7 +23,7 @@
 	"$cloakPassEnabled" "1"
 	"Proxies"
 	{
-		"invis"
+		"vm_invis"
 		{
 		}
 		"ModelGlowColor"

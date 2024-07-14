@@ -1,6 +1,5 @@
 "Water"
 {
-	"%keywords" "tf"
 //	$forcecheap 1
 	
 	"%tooltexture" "dev/tfwater_normal"

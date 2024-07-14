@@ -30,7 +30,7 @@
 	"$cloakPassEnabled" "1"
 	"Proxies"
 	{
-		"invis"
+		"vm_invis"
 		{
 		}
 		"ModelGlowColor"
@@ -41,6 +41,10 @@
 		{
 			"srcVar1"  "$glowcolor"
 			"resultVar" "$selfillumtint"
+		}
+		"CommunityWeapon"
+		{
+			"resultVar" "$commweapon"
 		}
 		"Multiply"
 		{
@@ -65,20 +69,6 @@
 			"srcVar1"  "$tempvar" 
 			"srcVar2"  "$basephongboost"
 			"resultVar" "$phongboost" 
-		}
-		"ModelGlowColor"
-		{
-			"resultVar" "$glowcolor"
-		}
-		"Equals"
-		{
-			"srcVar1"  "$glowcolor"
-			"resultVar" "$selfillumtint"
-		}
-		"Equals"
-		{
-			"srcVar1"  "$glowcolor"
-			"resultVar" "$color2"
 		}
 	}
 }

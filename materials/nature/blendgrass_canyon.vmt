@@ -2,7 +2,7 @@
 {
 	"$basetexture" "Nature/dirtground_canyon"
 	"$basetexture2" "Nature/grass_02"
-	"%tooltexture" "Nature/blendgrass_canyon_tooltexture"
+	"%tooltexture" "editor-abs/blendttx/nature/blendgrass_canyon"
 	"$bumpmap" "Nature/dirtground001_normal"
 	"%detailtype" "tf_grass02"
 	"%keywords" "tf"

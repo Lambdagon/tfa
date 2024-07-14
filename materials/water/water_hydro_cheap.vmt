@@ -6,7 +6,7 @@
 		 	"$fallbackmaterial" "water/water_hydro_cheap_dx80"
 	}
 
-	"%tooltexture" "dev/tfwater_normal"
+	"%tooltexture" "editor-abs/waterttx/water/water_hydro_cheap"
 	"%keywords" "tf"
 	"%compilewater" "1"
 	"%compileKeepLight" 1

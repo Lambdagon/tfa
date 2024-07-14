@@ -37,7 +37,7 @@
 			"animatedtextureframenumvar" 	"$sheenmapmaskframe"
 			"animatedtextureframerate" 		"40"
 		}
-		"invis"
+		"vm_invis"
 		{
 		}
 		"ModelGlowColor"

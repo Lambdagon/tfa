@@ -2,7 +2,7 @@
 {
 	"$basetexture" "Nature/dirtground007"
 	"$basetexture2" "Nature/rockground007"
-	"%tooltexture" "Nature/grass_02"
+	"%tooltexture" "editor-abs/blendttx/nature/blendgrassground001"
 	"%detailtype" "tf_granary_grass"
 	"%keywords" "tf"
 	"$bumpmap" "Nature/dirtground005_height-ssbump"

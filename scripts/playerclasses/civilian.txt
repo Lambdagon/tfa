@@ -7,7 +7,7 @@ PlayerClass
 	"name"			"civilian"
 	"model"			"models/player/civilian.mdl"
 	"model_hwm"		"models/player/hwm/civilian.mdl"
-	"model_hands"		"models/weapons/c_models/c_civilian_arms.mdl"
+	"model_hands"		"models/weapons/v_models/v_civilian_arms.mdl"
 	"localize_name"		"TF_Class_Name_Civilian"
 	"speed_max"		"250"
 	"health_max"		"200"
@@ -17,9 +17,8 @@ PlayerClass
 
 	// Weapons.
 	"weapon1"		"TF_WEAPON_UMBRELLA"
-	
-	// Buildables
-	"buildable1"	"OBJ_RADAR"
+	"weapon2"		""
+	"weapon3"		""
 
 	//Thirdperson
 	"cameraoffset_forward"	"85"
@@ -30,7 +29,7 @@ PlayerClass
 	{
 		"tf_ammo_primary"	"24"
 		"tf_ammo_secondary"	"0"
-		"tf_ammo_metal"		"100"
+		"tf_ammo_metal"		"200"
 		"tf_ammo_grenades1"	"0"
 		"tf_ammo_grenades2"	"0"
 	}	

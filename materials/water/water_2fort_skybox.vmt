@@ -9,7 +9,7 @@
 	"%keywords" "tf"
 	$forcecheap 1
 	
-	"%tooltexture" "dev/tfwater_normal"
+	"%tooltexture" "editor-abs/waterttx/water/water_2fort_skybox"
 	"%compilewater" 1
 	"$abovewater" 1
 	//"$nofresnel" "1"

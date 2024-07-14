@@ -1,7 +1,9 @@
 "LightmappedGeneric"
 {
 	"$basetexture" "Nature/dirtground_canyon4"
-	"$bumpmap" "Nature/dirtgroundcanyon_normal"
+	"$surfaceprop"	"dirt"
+	"$bumpmap" "Nature/gravelground001_height-ssbump"
+	"$ssbump" "1"
 	"%keywords" "tf"
 	"$detail" "overlays/detail004"
 	"$detailscale" "1.2"

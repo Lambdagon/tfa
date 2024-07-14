@@ -2,7 +2,7 @@
 {
 	"$basetexture" "Nature/dirtground001"
 	"$basetexture2" "test/invisible"
-	"%tooltexture" "Nature/blendgroundtoalpha001_tooltexture"
+	"%tooltexture" "editor-abs/blendttx/nature/blendgroundtoalpha001"
 	"$bumpmap" "Nature/dirtground001_normal"
 	//"%detailtype" "tf_grass"
 	"$translucent" 1

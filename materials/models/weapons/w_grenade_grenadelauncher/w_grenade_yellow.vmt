@@ -21,5 +21,15 @@
 			"sineperiod" 0.30
 		}
 	}
+
+	// Cloaking
+	"$cloakPassEnabled" "1"
+	"Proxies"
+	{
+		"invis"
+		{
+		}
+	}
+
 }
 
