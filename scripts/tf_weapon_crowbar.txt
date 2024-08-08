@@ -9,8 +9,10 @@
 	"ITEM_FLAG_NOITEMPICKUP" 	"1"
 	
 	// Attributes TF.
-	"Damage"			"35"
-	"TimeFireDelay"			"0.5"
+	//"Damage"			"35"
+	//"TimeFireDelay"			"0.5"
+	"Damage"			"65"
+	"TimeFireDelay"		"0.8"
 	"TimeIdle"			"5.0"
 	"HasTeamSkins_Viewmodel"			"1"
 

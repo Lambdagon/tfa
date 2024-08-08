@@ -8,11 +8,12 @@ WeaponData
 	"ITEM_FLAG_NOITEMPICKUP" 	"1"
 		
 	// Attributes TF.
-	"Damage"		"15"
+	"Damage"		"20"
 	"Range"			"4096"
 	"BulletsPerShot"	"1"
 	"Spread"		"0.015"
-	"TimeFireDelay"		"0.5"
+	//"TimeFireDelay"		"0.5"
+	"TimeFireDelay"		"1.5"
 	"ProjectileType"	"projectile_dart"
 	"DoInstantEjectBrass"	"0"
 	"HasTeamSkins_Viewmodel"	"1"
@@ -20,10 +21,12 @@ WeaponData
 
 
 	// Ammo & Clip.
-	"primary_ammo"		"TF_AMMO_SECONDARY"
+	"primary_ammo"		"TF_AMMO_PRIMARY"
 	"secondary_ammo"	"None"
-	clip_size		1
-	default_clip		1
+	//"clip_size"			"1"
+	//"default_clip"		"1"
+	"clip_size"		"-1"
+
 
 	// Buckets.
 	"bucket"		"0"

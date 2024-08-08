@@ -1,3 +1,4 @@
+// Double Barrel
 fWeaponData
 {
 	// Attributes Base.
@@ -8,27 +9,28 @@ fWeaponData
 	"ITEM_FLAG_NOITEMPICKUP" 	"1"
 	
 	// Primary Attributes
-	"Damage"			"6"
+	"Damage"			"5"
 	"Range"				"8192"
-	"BulletsPerShot"		"10"
+	"BulletsPerShot"		"12"
 	"Spread"			"0.0675"
-	"PunchAngle"			"2.0"
-	"TimeFireDelay"			"0.625"
+	"PunchAngle"			"5.0"
+	"TimeFireDelay"			"0.4"
 	"TimeIdle"			"5.0"
 	"TimeIdleEmpty"			"0.25"
-	"TimeReloadStart"		"0.1"
-	"TimeReload"			"0.5"
+	"TimeReloadStart"		"1.6"
+	"TimeReload"			"1.6"
 	"primary_ammo"			"TF_AMMO_SECONDARY"
-	"clip_size"			"6"
-	"default_clip"			"6"
+	"clip_size"				"2"
+	"default_clip"			"2"
 	"ProjectileType"		"projectile_bullet"
 	"AmmoPerShot"			"1"
+	"BulletsPerReload"		"2"
 	"HasTeamSkins_Viewmodel"			"1"
 	"MaxAmmo"			"32"
 	
 	"DoInstantEjectBrass"	"0"
 	"BrassModel"			"models/weapons/shells/shell_shotgun.mdl"	
-	"TracerEffect"		"bullet_shotgun_tracer01"
+	"TracerEffect"		"bullet_scattergun_tracer01"
 
 	// Buckets.
 	"bucket"			"1"
@@ -41,18 +43,17 @@ fWeaponData
 
 	// Muzzleflash
 	"MuzzleFlashModel"	"models/effects/muzzleflash/minigunmuzzle.mdl"
-	"MuzzleFlashParticleEffect" "muzzle_shotgun"
-	"MuzzleflashModelScale"	".5"
+	"MuzzleFlashParticleEffect" "muzzle_scattergun"
+	"MuzzleflashModelScale"	".7"
 	
 	// Sounds.
 	// Max of 16 per category (ie. max 16 "single_shot" sounds).
 	SoundData
 	{
-		"single_shot"		"Weapon_Shotgun.Single"
+		"single_shot"		"Weapon_SuperShotgun.Single"
+		"burst"			"Weapon_SuperShotgun.SingleCrit"
 		"empty"			"Weapon_Shotgun.Empty"
 		"reload"		"Weapon_Shotgun.WorldReload"
-		"special1"		"Weapon_Shotgun.Pump"
-		"burst"			"Weapon_Shotgun.SingleCrit"
 	}
 
 	// Weapon Sprite data is loaded by the Client DLL.

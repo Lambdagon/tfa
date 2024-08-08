@@ -2141,6 +2141,69 @@
 }
 
 // ------------------------------------------------------------------------------------ //
+// ASSAULT RIFLE
+// ------------------------------------------------------------------------------------ //
+
+"Weapon_AssaultRifle.Single"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"wave"		")weapons/assaultrifle_shoot.wav"
+}
+
+"Weapon_AssaultRifle.SingleCrit"
+{
+	"channel"	"CHAN_WEAPON"
+	"soundlevel"	"SNDLVL_94dB"
+	"volume"	"1.0"
+	"wave"		")weapons/assaultrifle_shoot_crit.wav"
+}
+
+"Weapon_AssaultRifle.ClipIn"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"0.35"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"		")weapons/assaultrifle_clip_in.wav"
+}
+
+"Weapon_AssaultRifle.ClipOut"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"0.35"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"		"weapons/assaultrifle_clip_out.wav"
+}
+
+"Weapon_AssaultRifle.WorldReload"
+{
+	"channel"	"CHAN_STATIC"
+	"volume"	"0.35"
+	"soundlevel"	"SNDLVL_NORM"
+
+	"wave"		")weapons/assaultrifle_worldreload.wav"
+}
+
+"Weapon_AssaultRifle.DrawBoltBack"
+{
+	"channel"	"CHAN_STATIC"
+	"soundlevel"	"SNDLVL_74dB"
+	"volume"	".5"
+	"wave"		")weapons/draw_assaultrifle_boltback.wav"
+}
+
+"Weapon_AssaultRifle.DrawBoltForward"
+{
+	"channel"	"CHAN_STATIC"
+	"soundlevel"	"SNDLVL_74dB"
+	"volume"	".5"
+	"wave"		"weapons/draw_assaultrifle_boltforward.wav"
+}
+
+// ------------------------------------------------------------------------------------ //
 // SUPER SMG
 // ------------------------------------------------------------------------------------ //
 "Weapon_SuperSMG.Single"

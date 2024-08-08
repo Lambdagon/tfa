@@ -9,10 +9,10 @@ PlayerClass
 	"model_hwm"		"models/player/hwm/spy.mdl"
 	"model_hands"	"models/weapons/c_models/c_spy_arms.mdl"
 	"localize_name"	"TF_Class_Name_Spy"
-	"speed_max"		"300"
+	"speed_max"		"320"
 //	"health_max"		"90"
-//	"armor_max"		"100"
-	"health_max"		"125"
+//	"armor_max"			"100"
+	"health_max"	"125"
 	"armor_max"		"0"
 
 	// Grenades.
@@ -20,8 +20,8 @@ PlayerClass
 //	"grenade2"		"TF_WEAPON_GRENADE_SMOKE_BOMB"
 
 	// Weapons.
-	"weapon1"		"TF_WEAPON_REVOLVER"
-	"weapon2"		""
+	"weapon1"		"TF_WEAPON_TRANQ"
+	"weapon2"		"TF_WEAPON_REVOLVER"
 	"weapon3"		"TF_WEAPON_KNIFE"
 	"weapon4"		"TF_WEAPON_PDA_SPY"
 	"weapon5"		"TF_WEAPON_INVIS"

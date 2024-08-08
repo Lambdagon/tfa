@@ -1,4 +1,3 @@
-// AUTO-RIFLE
 WeaponData
 {
 	// Attributes Base.
@@ -9,27 +8,26 @@ WeaponData
 	"ITEM_FLAG_NOITEMPICKUP" 	"1"
 		
 	// Attributes TF.
-	"Damage"		"10"
+	"Damage"		"8"
 	"Range"			"8192"
 	"BulletsPerShot"	"1"
-	"Spread"		"0.015"
+	"Spread"		"0.025"
 	"TimeIdle"		"10.0"
 	"TimeIdleEmpty"		"1.0"
-	"TimeFireDelay"		"0.15"
-	"TimeReload"		"1.6"
+	"TimeFireDelay"		"0.1"
 	"ProjectileType"	"projectile_bullet"
 	"BrassModel"		"models/weapons/shells/shell_pistol.mdl"
 	"UseRapidFireCrits"	"1"
 	"HasTeamSkins_Viewmodel"	"1"
 	"HasTeamSkins_Worldmodel"	"1"
-	"MaxAmmo"		"90"
-	"SpawnAmmo"		"90"
+	"MaxAmmo"		"105"
+	"SpawnAmmo"		"105"
 
 	// Ammo & Clip.
 	"primary_ammo"		"TF_AMMO_SECONDARY"
 	"secondary_ammo"	"None"
-	clip_size			"30"
-	default_clip		"30"
+	clip_size		35
+	default_clip		35
 
 	// Buckets.
 	"bucket"		"1"
@@ -54,10 +52,10 @@ WeaponData
 	// Max of 16 per category (ie. max 16 "single_shot" sounds).
 	SoundData
 	{
-		"reload"		"Weapon_AssaultRifle.WorldReload"
+		"reload"		"Weapon_SMG.WorldReload"
 		"empty"			"Weapon_SMG.ClipEmpty"	
-		"single_shot"		"Weapon_AssaultRifle.Single"
-		"burst"			"Weapon_AssaultRifle.SingleCrit"
+		"single_shot"		"Weapon_SMG.Single"
+		"burst"			"Weapon_SMG.SingleCrit"
 	}
 
 	// Weapon Sprite data is loaded by the Client DLL.

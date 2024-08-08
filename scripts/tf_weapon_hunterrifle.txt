@@ -8,20 +8,25 @@ WeaponData
 	"ITEM_FLAG_NOITEMPICKUP" 	"1"
 	
 	// Attributes TF.
-	"Damage"		"50"
+	//"Damage"		"50"
+	"Damage"		"40"
 	"Range"			"8192"
 	"BulletsPerShot"	"1"
-	"Spread"		"0.06"
+	//"Spread"		"0.06"
+	"Spread"		"0.0"
 	"TimeFireDelay"		"1.5"
-	"TimeReload"		"1.87"
+	//"TimeReload"		"1.87"
+	"TimeReload"		"2.8"
 	"ProjectileType"	"projectile_bullet"
+	"HasTeamSkins_Viewmodel"	"1"
+	"HasTeamSkins_Worldmodel"	"1"
 
 	// Ammo & Clip.
 	"primary_ammo"		"TF_AMMO_PRIMARY"
 	"secondary_ammo"	"None"
-	"clip_size"		"2"
-	"default_clip"		"2"
-	"MaxAmmo"			"24"
+	"clip_size"		"5"
+	"default_clip"		"5"
+	"MaxAmmo"			"25"
 
 	// Buckets.
 	"bucket"		"0"
@@ -36,7 +41,7 @@ WeaponData
 	// Muzzleflash
 	"MuzzleFlashModel"	"models/effects/muzzleflash/minigunmuzzle.mdl"
 	"MuzzleFlashParticleEffect" "muzzle_sniperrifle"
-	"MuzzleflashModelScale"	".3"
+	"MuzzleflashModelScale"	".5"
 	
 	// Brass.
 	"DoInstantEjectBrass"	"0"

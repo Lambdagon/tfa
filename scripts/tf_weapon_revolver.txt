@@ -8,10 +8,12 @@ WeaponData
 	"ITEM_FLAG_NOITEMPICKUP" 	"1"
 		
 	// Attributes TF.
-	"Damage"			"40"
+	//"Damage"			"40"
+	"Damage"			"45"
 	"Range"				"4096"
 	"BulletsPerShot"	"1"
-	"Spread"			"0.025"
+	//"Spread"			"0.025"
+	"Spread"			"0.02"
 	"TimeFireDelay"		"0.5"
 	"ProjectileType"	"projectile_bullet"
 	"DoInstantEjectBrass"	"0"
